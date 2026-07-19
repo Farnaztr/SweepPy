@@ -11,7 +11,7 @@ A simple Python script that automatically organizes files inside a folder based 
   *  Python files (`.py`)
   *  Music files (`.mp3`, `.wav`, `.flac`, `.aac`)
   *  Documents (`.txt`, `.docx`, `.xlsx`, `.pptx`, `.csv`)
-  *  Other files
+  *  Other files 
 
 * Automatically creates folders if they do not exist.
 
